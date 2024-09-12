@@ -1,7 +1,7 @@
 // script.js
 document.getElementById('loginForm').addEventListener('submit', function(event) {
-    const defaultP = "Mradul";
-    const defaultU = "Mradul1995@gmail.com";
+    const defaultP = "Mradul@123";
+    const defaultU = "Mradul1997@gmail.com";
     event.preventDefault();
     let isValid = true;
 
